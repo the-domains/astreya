@@ -1,0 +1,28 @@
+name: Astreya
+favicon: null
+layout_spectrum: 0.4882338785100728
+typography_spectrum: 0.764046099036932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7410071641206741
+  lightness: 0.3917705467902124
+  saturation: 0.8063135887496173
+  rhythmicContrast: 0.7856977698393166
+purpose: []
